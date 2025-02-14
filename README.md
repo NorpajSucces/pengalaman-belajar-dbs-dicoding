@@ -17,6 +17,7 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
 * Pengenalan Dasar Computational Thingking
 
 ## 13-14 Febuari 2025
-Belajar Dasar Git dengan GitHub. (Progres 38%)
+Belajar Dasar Git dengan GitHub. (Progres 41%)
 * Git dan Github
 * Dasar Git
+* Studi Kasus Pengalaman Belajar
