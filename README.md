@@ -18,13 +18,13 @@ Timeline Pengerjaan: **12-13 Febuari 2025**
 * [x] Gerbang Logika
 * [x] Pengenalan Dasar Computational Thingking
 
-## [Belajar Dasar Git dengan GitHub.](https://www.dicoding.com/academies/317) ![Progres](https://img.shields.io/badge/Progress-61%25-blue) 
-Timeline Pengerjaan: **13-xx Febuari 2025**
+## [Belajar Dasar Git dengan GitHub.](https://www.dicoding.com/academies/317) ![Progres](https://img.shields.io/badge/Progress-100%25-blue) 
+Timeline Pengerjaan: **13-16 Febuari 2025**
 
 * [x] Git dan Github
 * [x] Dasar Git
 * [x] Studi Kasus Pengalaman Belajar
 * [x] Git Branches
-* [ ] Kolaborasi dengan Tim
-* [ ] Studi Kasus Kolaborasi dengan Tim
-* [ ] GitHub sebagai Portofolio
+* [x] Kolaborasi dengan Tim
+* [x] Studi Kasus Kolaborasi dengan Tim
+* [x] GitHub sebagai Portofolio
