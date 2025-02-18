@@ -28,3 +28,10 @@ Timeline Pengerjaan: **13-16 Febuari 2025**
 * [x] Kolaborasi dengan Tim
 * [x] Studi Kasus Kolaborasi dengan Tim
 * [x] GitHub sebagai Portofolio
+
+## [Belajar Dasar Ai.](https://www.dicoding.com/academies/653/corridor) ![Progres](https://img.shields.io/badge/Progress-100%25-blue) 
+Timeline Pengerjaan: **18 Febuari 2025**
+* [x] Berkenalan dengan Artificial Intelligence (AI)
+* [x] Data Untuk AI
+* [x] Pengantar Machine Learning
+* [x] Deep Learning Untuk Semua Orang
