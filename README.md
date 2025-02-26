@@ -36,10 +36,34 @@ Timeline Pengerjaan: **18 Febuari 2025**
 * [x] Pengantar Machine Learning
 * [x] Deep Learning Untuk Semua Orang
 
-## [Belajar Dasar Structured Query Language (SQL)](https://www.dicoding.com/academies/600) ![Progres](https://img.shields.io/badge/Progress-34%25-blue)
-Timeline Pengerjaan: **18-xx Febuari 2025**
+## [Belajar Dasar Structured Query Language (SQL)](https://www.dicoding.com/academies/600) ![Progres](https://img.shields.io/badge/Progress-100%25-blue)
+Timeline Pengerjaan: **18-23 Febuari 2025**
 * [x] Pengenalan Data dan Basis Data
-* [ ] Database Management System (DBMS)
-* [ ] Pengenalan Structured Query Language
-* [ ] Basic Query 
+* [x] Database Management System (DBMS)
+* [x] Pengenalan Structured Query Language
+* [x] Basic Query 
 
+## [Memulai Pemrograman dengan Python](https://www.dicoding.com/academies/86) ![Progres](https://img.shields.io/badge/Progress-100%25-blue)
+Timeline Pengerjaan: **23-25 Febuari 2025**
+* [x] Berkenalan dengan python
+* [x] Berinteraksi dengan data
+* [x] Ekspresi
+* [x] Aksi Sekuensial
+* [x] Control flow
+* [x] Array dan pemrosesnya
+* [x] Matriks
+* [x] Subprogram
+* [x] OOP
+* [x] Style guide pada python
+* [x] Unit testing
+* [x] Library populer pada python
+
+## [Memulai Pemrograman dengan Python](https://www.dicoding.com/academies/86) ![Progres](https://img.shields.io/badge/Progress-13%25-blue)
+Timeline Pengerjaan: **26-xx Febuari 2025**
+* [ ] Dasar-dasar analisis data
+* [ ] Penerapan dasar-dasar descripitive statistics
+* [ ] Pertimbangan dalam pengolahan data
+* [ ] Data Wrangling
+* [ ] Exploratory Data Analysis
+* [ ] Data Visualization
+* [ ] Pengembangan dashboard
