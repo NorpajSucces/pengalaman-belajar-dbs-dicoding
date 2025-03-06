@@ -58,12 +58,13 @@ Timeline Pengerjaan: **23-25 Febuari 2025**
 * [x] Unit testing
 * [x] Library populer pada python
 
-## [Memulai Pemrograman dengan Python](https://www.dicoding.com/academies/86) ![Progres](https://img.shields.io/badge/Progress-68%25-blue)
+## [Memulai Pemrograman dengan Python](https://www.dicoding.com/academies/86) ![Progres](https://img.shields.io/badge/Progress-98%25-blue)
 Timeline Pengerjaan: **26-xx Febuari 2025**
 * [x] Dasar-dasar analisis data
 * [x] Penerapan dasar-dasar descripitive statistics
 * [x] Pertimbangan dalam pengolahan data
 * [x] Data Wrangling
 * [x] Exploratory Data Analysis
-* [ ] Data Visualization
-* [ ] Pengembangan dashboard
+* [x] Data Visualization
+* [x] Pengembangan dashboard
+* [ ] Proyek Akhir (Submission)
