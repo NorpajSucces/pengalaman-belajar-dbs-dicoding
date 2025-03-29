@@ -58,8 +58,8 @@ Timeline Pengerjaan: **23-25 Febuari 2025**
 * [x] Unit testing
 * [x] Library populer pada python
 
-## [Memulai Pemrograman dengan Python](https://www.dicoding.com/academies/86) ![Progres](https://img.shields.io/badge/Progress-98%25-blue)
-Timeline Pengerjaan: **26-xx Febuari 2025**
+## [Belajar Analisis Data dengan Pythonn](https://www.dicoding.com/academies/555) ![Progres](https://img.shields.io/badge/Progress-100%25-blue)
+Timeline Pengerjaan: **26 Febuari - 9 Maret 2025**
 * [x] Dasar-dasar analisis data
 * [x] Penerapan dasar-dasar descripitive statistics
 * [x] Pertimbangan dalam pengolahan data
@@ -67,4 +67,30 @@ Timeline Pengerjaan: **26-xx Febuari 2025**
 * [x] Exploratory Data Analysis
 * [x] Data Visualization
 * [x] Pengembangan dashboard
-* [ ] Proyek Akhir (Submission)
+* [x] Proyek Akhir (Submission)
+
+## [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/academies/184) ![Progres](https://img.shields.io/badge/Progress-100%25-blue)
+Timeline Pengerjaan: **15 - 25 Maret 2025**
+* [x] Hi, Machine Learning!
+* [x] Machine Learning Workflow
+* [x] Supervised Learning - Klasifikasi
+* [x] Supervised Learning - Regresi
+* [x] Unsupervised Learning - Clustering
+* [x] Teknik feature Enginering
+* [x] Overfitting dan Underfitting
+* [x] Optimasi Model dengan Hyperparameter Tuning
+* [x] Proyek Akhir (Submission)
+
+## [Belajar Pengembangan Machine Learning](https://www.dicoding.com/academies/185) ![Progres](https://img.shields.io/badge/Progress-0%25-blue)
+Timeline Pengerjaan: **xx Maret 2025**
+* [ ] Pengenalan Deep Learning
+* [ ] Neutral Network dengan Tensorflow dan keras
+* [ ] Natural Language Processing (NLP)
+* [ ] Proyek Pertama
+* [ ] Time Series
+* [ ] Klasifikasi Gambar
+* [ ] Sistem Rekomendasi
+* [ ] Reinforcement Learning
+* [ ] Konversi Model Machine Learning
+* [ ] The Game Changer Generative AI
+* [ ] Proyek Akhir
